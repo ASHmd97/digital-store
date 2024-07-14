@@ -7,9 +7,10 @@ import MobileNav from "./MobileNav";
 
 const links = [
   { name: "Home", href: "#" },
+  { name: "Explore", href: "#" },
   { name: "Products", href: "#" },
-  { name: "Blog", href: "#" },
-  { name: "About", href: "#" },
+  { name: "About Us", href: "#" },
+  { name: "Contact Us", href: "#" },
 ];
 
 const Header = () => {
