@@ -51,14 +51,6 @@ const MobileNav = ({ isOpen, setIsOpen }) => {
               ))}
             </ul>
           </li>
-
-          <li className="py-2">
-            <button
-              type="submit"
-              className="block w-full px-4 py-2 text-xl font-medium text-primary hover:bg-primary hover:text-white">
-              Logout
-            </button>
-          </li>
         </ul>
       </div>
     </>
